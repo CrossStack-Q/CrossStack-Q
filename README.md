@@ -105,7 +105,7 @@ Vscode                    11 hrs             ███████████�
 
 💻 Operating System: 
 Windows                  14 hrs 18 mins      ██████████████░░░░░░░░░░░   63.2%
-Windows                   7 hrs              ██████████░░░░░░░░░░░░░░░   36.8%
+Chrome OS                7 hrs               ██████████░░░░░░░░░░░░░░░   36.8%
 
 ```
 
@@ -132,43 +132,39 @@ JavaScript               10 repos            ██░░░░░░░░░�
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag-sharma-72a834225/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
+  
+  
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/twitter.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png">
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anurag Sharma's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/hr.png"/></code>
   </a>
 
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/cf.png"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/cf.png"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/lc.png"/></code>
+  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/lc.png"/></code>
   </a>
 </p>
 
